@@ -1,0 +1,12 @@
+/* 
+   Localizable.strings
+   RIFFler
+
+   Created by kenta on 10/06/20.
+   Copyright 2010 __MyCompanyName__. All rights reserved.
+ */
+
+FormatUnknown = "不明な形式";
+FormatLittleEndian = "リトルエンディアン形式";
+FormatBigEndian = "ビッグエンディアン形式";
+UnitBytes = "バイト";
